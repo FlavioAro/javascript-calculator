@@ -1,5 +1,4 @@
-# calculator
-How To Make a Calculator Using Html CSS3 &amp; Javascript
+# How To Make a Calculator Using Html CSS3 & Javascript.
 
 ### Video link showing how it works:
 https://www.youtube.com/watch?v=bq97n4-z5ao
